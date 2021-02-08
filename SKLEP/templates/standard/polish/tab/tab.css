@@ -1,0 +1,90 @@
+.dynamic-tab-pane-control.tab-pane {
+	position:	relative;
+	left: 0px;
+	right: 0px;
+
+	width:		100%;		/* width needed weird IE bug */
+	margin-right:	0px;	/* to make room for the shadow */
+}
+
+.dynamic-tab-pane-control .tab-row .tab {
+
+	width:				79px;
+	height:				33px;
+	background-image:	url( "tab.png" );
+	
+	position:		relative;
+	top:			0;
+	display:		inline;
+	float:			left;
+	overflow:		hidden;
+	
+	cursor:			Default;
+
+	margin:			0px 0px 0px 0px;
+	padding:		0px 0px 0px 0px;
+	border:			0;
+
+	z-index:		1;
+	font:			10px Arial;
+	white-space:	nowrap;
+	text-align:		center;
+}
+
+.dynamic-tab-pane-control .tab-row .tab.selected {
+	width:				79px !important;
+	height:				33px !important;
+	background-image:	url( "tab.active.png" ) !important;
+	background-repeat:	no-repeat;
+	color: #FF7200  !important;
+	border-bottom-width:	0;
+	z-index:		3;
+	padding:		0px 0 0px 0;
+	margin:			0px 0px 0px 0px;
+	top:			0px;
+	font:				10px Arial;
+}
+
+.dynamic-tab-pane-control .tab-row .tab a {
+	font:				11px Arial;
+	color:				#626262;
+	position:			relative; 
+	top:				10px;
+	text-decoration:	none;
+	font-weight:		bold;
+	cursor:				default;
+}
+
+.dynamic-tab-pane-control .tab-row .tab.hover {
+	font:				10px Arial;
+	width:				79px;
+	height:				33px;
+	color: #626262;
+	background-image:	url( "tab.hover.png" );
+	background-repeat:	no-repeat;
+}
+
+
+.dynamic-tab-pane-control .tab-page {
+	clear:			both;
+	border:			1px solid #FFF;
+	background:		#FFF;
+	z-index:		2;
+	position:		relative;
+	top:			0px;
+
+	font:				10px Arial;
+	color:				#4E5A6A;
+
+	filter:			progid:DXImageTransform.Microsoft.Gradient(StartColorStr=#fffcfcfe, EndColorStr=#fff4f3ee, GradientType=0)
+					progid:DXImageTransform.Microsoft.Shadow(Color=#ff919899, Strength=2, Direction=135);
+}
+
+.dynamic-tab-pane-control .tab-row {
+	z-index:		1;
+	white-space:	nowrap;
+}
+
+.tab {
+	font-size: 14px;
+}

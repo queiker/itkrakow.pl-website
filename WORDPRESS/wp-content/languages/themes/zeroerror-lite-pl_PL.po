@@ -1,0 +1,518 @@
+# Translation of Themes - Zeroerror Lite in Polish
+# This file is distributed under the same license as the Themes - Zeroerror Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-18 13:10:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Zeroerror Lite\n"
+
+#. Description of the plugin/theme
+msgid "ZeroError lite is a free business WordPress theme which can be used for multiple purposes. It perfectly suits your business or corporate website and is specially created for all business standards. ZeroError free WordPress Theme is SEO ready, multipurpose, elegant, responsive and clean coded. This theme can be used for business, corporate, construction, charity, hotel, restaurants, food, yoga, creative agency, fitness club, gym, meditation, school education, modeling, beauty, medical, massage spa, wedding, photography, personal blog, news, mazgine or any other business brands. Demo: http://gracethemes.com/demo/zeroerror/"
+msgstr "ZeroError lite to darmowy biznesowy motyw WordPress, który można wykorzystać do wielu celów. Idealnie pasuje do Twojej firmy lub strony korporacyjnej i jest specjalnie stworzony dla wszystkich standardów biznesowych. Darmowy motyw WordPress ZeroError jest gotowy dla SEO, uniwersalny, elegancki, responsywny i czysty kodowany. Motyw ten może być wykorzystywany w biznesie, korporacjach, budownictwie, fundacjach, hotelach, restauracjach, żywności, jodze, agencji kreatywnej, klubie fitness, siłowni, medytacji, szkolnej edukacji, modelingu, urodzie, medycynie, gabinecie masażu, ślubach, fotografii, osobistym blogu , nowości, mazgine lub innych dziedzinach biznesu. Prezentacja: http://gracethemes.com/demo/zeroerror/"
+
+#. Theme Name of the plugin/theme
+msgid "Zeroerror Lite"
+msgstr "Zeroerror Lite"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Kategoria"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Szukaj"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Szukaj..."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla zapytania &#8222;%s&#8221;"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Brak wyników wyszukiwania. Proszę spróbować ponownie z innymi słowami."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotów, by opublikować pierwszy wpis? <a href=\"%1$s\">Zacznij tutaj</a>. "
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Brak wyników"
+
+#: inc/template-tags.php:184
+msgid "<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Opublikowany %1$s</span><span class=\"byline\"> przez %2$s</span>"
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: inc/template-tags.php:86
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:47
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze wpisy <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze wpisy"
+
+#: inc/template-tags.php:38
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr "Nawigacja wpisu"
+
+#: inc/customizer.php:354
+msgid "Add you email here"
+msgstr "Dodaj tutaj swój email"
+
+#: inc/customizer.php:344
+msgid "Add contact number here."
+msgstr "Dodaj tutaj numer kontaktowy."
+
+#: inc/customizer.php:333
+msgid "Add contact address here"
+msgstr "Dodaj tutaj adres kontaktowy"
+
+#: inc/customizer.php:328
+msgid "100 King St, Melbourne PIC 4000, Australia"
+msgstr "100 King St, Melbourne PIC 4000, Australia"
+
+#: inc/customizer.php:322
+msgid "Add you contact details here"
+msgstr "Dodaj tutaj szczegóły kontaktowe"
+
+#: inc/customizer.php:321
+msgid "Contact Details"
+msgstr "Szczegóły kontaktowe"
+
+#: inc/customizer.php:314
+msgid "Change your credit link"
+msgstr "Zmień swój odnośnik uznaniowy"
+
+#: inc/customizer.php:303
+msgid "Change Copyright Text"
+msgstr "Zmień tekst Praw autorskich"
+
+#: inc/customizer.php:292
+msgid "Add title for footer contact info"
+msgstr "Dodaj tytuł dla stopki informacji kontaktowych"
+
+#: inc/customizer.php:281
+msgid "Add title for footer recent posts"
+msgstr "Dodaj tytuł dla stopki ostatnich wpisów"
+
+#: inc/customizer.php:270
+msgid "Add description for about us"
+msgstr "Dodaj opis dla O nas"
+
+#: inc/customizer.php:259
+msgid "Add title for about us"
+msgstr "Dodaj tytuł dla O nas"
+
+#: inc/customizer.php:248
+msgid "Add title for menu"
+msgstr "Dodaj tytuł dla menu"
+
+#: inc/customizer.php:226
+msgid "Footer Area"
+msgstr "Obszar stopki"
+
+#: inc/customizer.php:217
+msgid "Add linkedin link here"
+msgstr "Dodaj tutaj odnośnik linkedin"
+
+#: inc/customizer.php:208
+msgid "Add google plus link here"
+msgstr "Dodaj tutaj odnośnik google plus"
+
+#: inc/customizer.php:199
+msgid "Add twitter link here"
+msgstr "Dodaj tutaj odnośnik twitter"
+
+#: inc/customizer.php:189
+msgid "Add facebook link here"
+msgstr "Dodaj tutaj odnośnik facebook"
+
+#: inc/customizer.php:178
+msgid "More social icon available in PRO Version"
+msgstr "Więcej ikon społecznościowych dostępnych w wersji PRO"
+
+#: inc/customizer.php:177
+msgid "Social Settings"
+msgstr "Ustawienia Społecznościowe"
+
+#: inc/customizer.php:159
+msgid "Select Page from the dropdown for first section"
+msgstr "Wybierz stronę z rozwinięcia dla pierwszej sekcji"
+
+#: inc/customizer.php:158
+msgid "Homepage Welcome Section"
+msgstr "Sekcja Powitania strony domowej"
+
+#: inc/customizer.php:114
+msgid "Select Pages from the dropdown for homepage three boxes section"
+msgstr "Wybierz strony z rozwinięcia dla sekcji trzech obszarów strony domowej"
+
+#: inc/customizer.php:113
+msgid "Homepage Three Boxes Section"
+msgstr "Sekcja trzech obszarów strony domowej"
+
+#: inc/customizer.php:107
+msgid "Select page for slide three:"
+msgstr "Wybierz stronę dla trzeciego slajdu:"
+
+#: inc/customizer.php:95
+msgid "Select page for slide two:"
+msgstr "Wybierz stronę dla drugiego slajdu:"
+
+#: inc/customizer.php:83
+msgid "Select page for slide one:"
+msgstr "Wybierz stronę dla pierwszego slajdu:"
+
+#: inc/customizer.php:71
+msgid "Featured Image Size Should be ( 1400x500 ) More slider settings available in PRO Version"
+msgstr "Rozmiar obrazka wyróżniającego powinien być ( 1400x500 ) Więcej ustawień suwaka dostępnych jest w wersji PRO"
+
+#: inc/customizer.php:69
+msgid "Slider Settings"
+msgstr "Ustawienia Slider"
+
+#: inc/customizer.php:61
+msgid "More color options in PRO Version"
+msgstr "Więcej opcji kolorów w wersji PRO"
+
+#: inc/customizer.php:60
+msgid "Color Scheme"
+msgstr "Schemat kolorów"
+
+#: inc/about-themes.php:79
+msgid "Many Other Plugins  Compatible"
+msgstr "Wiele innych kompatybilnych wtyczek"
+
+#: inc/about-themes.php:78
+msgid "Translation Ready"
+msgstr "Obsługuje tłumaczenia"
+
+#: inc/about-themes.php:77
+msgid "User Friendly"
+msgstr "Przyjazny użytkownikowi"
+
+#: inc/about-themes.php:76
+msgid "Contact Form 7 Plugin Compatible"
+msgstr "Kompatybilny z wtyczką Contact Form 7"
+
+#: inc/about-themes.php:68
+msgid "Theme Documentation"
+msgstr "Dokumentacja motywu"
+
+#: inc/about-themes.php:67
+msgid "Purchase Pro"
+msgstr "Kup Pro"
+
+#: inc/about-themes.php:66
+msgid "Live Demo"
+msgstr "Demonstracja w czasie rzeczywistym"
+
+#: inc/about-themes.php:59
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "W pełni kompatybilny z wtyczką WooCommerce. Wystarczy zainstalować wtyczkę i zamienić witrynę w pełni funkcjonalny sklep internetowy i zacząć sprzedawać produkty."
+
+#: inc/about-themes.php:58 inc/about-themes.php:75
+msgid "E-commerce"
+msgstr "E-commerce"
+
+#: inc/about-themes.php:54
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE8 and above."
+msgstr "Nasze motywy są testowane we wszystkich nowoczesnych przeglądarkach internetowych i zgodne z najnowszą wersją, w tym Chrome, Firefox, Safari, Opera, IE8 i nowszymi."
+
+#: inc/about-themes.php:53 inc/about-themes.php:74
+msgid "Cross Browser Compatible"
+msgstr "Zgodny z przeglądarką krzyżową"
+
+#: inc/about-themes.php:49
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "Układ motywów automatycznie dostosuje się i dopasuje do dowolnej rozdzielczości ekranu i świetnie wygląda na każdym urządzeniu. W pełni zoptymalizowany dla iPhone'a i iPada."
+
+#: inc/about-themes.php:48 inc/about-themes.php:73
+msgid "Responsive Ready"
+msgstr "Responsywnie gotowy"
+
+#: inc/about-themes.php:44
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "Wbudowany panel dostosowywania szybko zmienia aspekty projektu i wyświetla zmiany na żywo przed ich zapisaniem."
+
+#: inc/about-themes.php:43 inc/about-themes.php:72
+msgid "Theme Customizer"
+msgstr "Personalizacja motywu"
+
+#: inc/about-themes.php:38
+msgid "Zeroerror Lite is a 100% responsive multipurpose WordPress theme with focus on corporate, industrial, commercial, and business websites."
+msgstr "Zeroerror Lite to w 100% responsywny, wielofunkcyjny motyw WordPress z naciskiem na strony korporacyjne, przemysłowe, komercyjne i biznesowe."
+
+#: inc/about-themes.php:11 inc/about-themes.php:36
+msgid "About Theme Info"
+msgstr "Informacje o motywie"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Następny <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Poprzedni"
+
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Opublikowany <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> o <a href=\"%3$s\">%4$s &times; %5$s</a> w <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:204
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales suscipit tellus, ut tristique neque suscipit a. Mauris tristique lacus quis leo imperdiet sed pulvinar dui fermentum. Aenean sit amet diam non tortor sagittis varius. Aenean at lorem nulla, sit amet interdum nibh. Mauris sit amet dictum turpis. Sed ut sapien magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br /> <br />\n"
+"\n"
+"Aliquam gravida odio nec dui ornare tempus elementum lectus rhoncus. Suspendisse lobortis pellentesque orci, in sodales nisi pretium sit amet. Aenean vulputate, odio non euismod eleifend, magna nisl elementum lorem, ac venenatis nunc erat et metus. Nulla volutpat, urna eu congue venenatis, tellus odio hendrerit nibh, in commodo velit leo a ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae aenean sit amet diam non tortor sagittis varius. Aenean at lorem nulla, sit amet interdum nibh. Mauris sit amet dictum turpis. "
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales suscipit tellus, ut tristique neque suscipit a. Mauris tristique lacus quis leo imperdiet sed pulvinar dui fermentum. Aenean sit amet diam non tortor sagittis varius. Aenean at lorem nulla, sit amet interdum nibh. Mauris sit amet dictum turpis. Sed ut sapien magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br /> <br />\n"
+"\n"
+"Aliquam gravida odio nec dui ornare tempus elementum lectus rhoncus. Suspendisse lobortis pellentesque orci, in sodales nisi pretium sit amet. Aenean vulputate, odio non euismod eleifend, magna nisl elementum lorem, ac venenatis nunc erat et metus. Nulla volutpat, urna eu congue venenatis, tellus odio hendrerit nibh, in commodo velit leo a ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae aenean sit amet diam non tortor sagittis varius. Aenean at lorem nulla, sit amet interdum nibh. Mauris sit amet dictum turpis. "
+
+#: header.php:203
+msgid "Welcome to Our Website"
+msgstr "Witamy na naszej stronie internetowej"
+
+#: header.php:180
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque augue eros, sit amet, consectetur adipiscing posuere elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque augue eros, sit amet, consectetur adipiscing posuere elit."
+
+#: header.php:178
+msgid "Theme Featured"
+msgstr "Wyróżniony motyw"
+
+#: header.php:143
+msgid "User Friendly Theme Options"
+msgstr "Przyjazne użytkownikowi opcje motywu"
+
+#: header.php:135
+msgid "High lavel Customization"
+msgstr "Wysoki poziom dostosowywania"
+
+#: header.php:127 header.php:136 header.php:144
+msgid "Nunc sed lorem pretium, volutpat tortor id, adipiscing sem. Sed bibendum quis augue nec porta. Ut molestie tortor pulvinar, faucibus justo vitae, interdum nunc. Vestibulum imperdiet nisl vel condimentum faucibus."
+msgstr "Nunc sed lorem pretium, volutpat tortor id, adipiscing sem. Sed bibendum quis augue nec porta. Ut molestie tortor pulvinar, faucibus justo vitae, interdum nunc. Vestibulum imperdiet nisl vel condimentum faucibus."
+
+#: header.php:126
+msgid "Multipurpose WordPress themes"
+msgstr "Wielofunkcyjne motywy WordPress"
+
+#: header.php:109 header.php:128 header.php:137 header.php:145
+msgid "Read More"
+msgstr "Czytaj więcej"
+
+#: header.php:66
+msgid "Menu"
+msgstr "Menu"
+
+#. Translators: If there has any character that are not supported   by Scada,
+#. translate this to off, do not translate  into your own language.
+#: functions.php:93
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are any character that are not supported by raleway,
+#. trsnalate this to off, do not translate into your own language.
+#: functions.php:86
+msgctxt "raleway:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:67
+msgid "Appears on blog page sidebar"
+msgstr "Pojawia się na panelu bocznym strony blogu"
+
+#: functions.php:66
+msgid "Blog Sidebar"
+msgstr "Panel boczny blogu"
+
+#: functions.php:38
+msgid "Footer Menu"
+msgstr "Menu w stopce"
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr "Menu główne"
+
+#: footer.php:113 inc/customizer.php:309
+msgid "Design and Developed by Grace Themes"
+msgstr "Projekt i wykonanie Grace Themes"
+
+#: footer.php:69 inc/customizer.php:340
+msgid "Phone: +123 456 7890"
+msgstr "Telefon: +123 456 7890"
+
+#: footer.php:61
+msgid "100 King St Melbourne PIC 4000, Australia"
+msgstr "100 King St Melbourne PIC 4000, Australia"
+
+#: footer.php:57 inc/customizer.php:287
+msgid "Contact Info"
+msgstr "Informacje kontaktowe"
+
+#: footer.php:38 inc/customizer.php:276
+msgid "Recent Posts"
+msgstr "Najnowsze wpisy"
+
+#: footer.php:27 inc/customizer.php:243
+msgid "Main Navigation"
+msgstr "Główna Nawigacja"
+
+#: footer.php:20 inc/customizer.php:265
+msgid "Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue."
+msgstr "Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue."
+
+#: footer.php:14 inc/customizer.php:254
+msgid "About Us"
+msgstr "O nas"
+
+#: content.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:22
+msgid "Read More &raquo;"
+msgstr "WIĘCEJ... &raquo;"
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "&nbsp;|&nbsp; Tagi: "
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ", "
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:70 inc/template-tags.php:89
+msgid "Edit"
+msgstr "Edycja"
+
+#: content-page.php:18 content-single.php:33 content.php:29 image.php:59
+msgid "Pages:"
+msgstr "Strony:"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Nawigacja po komentarzach"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myśl na temat &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr "Archiwa"
+
+#: archive.php:59
+msgid "Links"
+msgstr "Łącza"
+
+#: archive.php:56
+msgid "Quotes"
+msgstr "Cytaty"
+
+#: archive.php:53
+msgid "Videos"
+msgstr "Wideo"
+
+#: archive.php:50
+msgid "Images"
+msgstr "Zdjęcia"
+
+#: archive.php:47
+msgid "Asides"
+msgstr "Treści poboczne"
+
+#: archive.php:44
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: archive.php:41
+msgid "Month: %s"
+msgstr "Miesiąc: %s"
+
+#: archive.php:38
+msgid "Day: %s"
+msgstr "Dzień: %s"
+
+#: archive.php:30
+msgid "Author: %s"
+msgstr "Autor:"
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....<br />Don't worry... it happens to the best of us."
+msgstr "Wygląda na to, że zrobiłeś zły ruch ..... <br /> Nie martw się ... zdarza się to najlepszemu z nas."
+
+#: 404.php:14
+msgid "<strong>404</strong> Not Found"
+msgstr "<strong>404</strong> Nie znaleziono"
+
+#. Author URI of the plugin/theme
+msgid "http://gracethemes.com"
+msgstr "http://gracethemes.com"
+
+#. Author of the plugin/theme
+msgid "GRC Themes"
+msgstr "GRC Themes"
+
+#. Theme URI of the plugin/theme
+msgid "http://gracethemes.com/themes/zeroerror-lite/"
+msgstr "http://gracethemes.com/themes/zeroerror-lite/"
