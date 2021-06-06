@@ -20,7 +20,7 @@ $db_link = @mysql_connect($db_host, $db_user, $db_password) or die("Nie można p
 
 mysql_select_db($db_to_connect, $db_link) or die("Nie można połączyć do  bazy danych mysql " . mysql_errno() . "Opis błędu " . mysql_error());
 
-$zapytanie = "SELECT * FROM klienci";
+$zapytanie = "SELECT * FROM klienci ORDER BY id_klienta DESC";
 
 if ($rezultat = mysql_query($zapytanie, $db_link))
 {
